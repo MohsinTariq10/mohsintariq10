@@ -20,6 +20,17 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
 
+<h3>My latest articles</h3>
+<ul>
+  <li><a href="https://medium.com/@mohsin.tariq10/docker-for-ml-engineers-and-data-scientists-5a58018af2b9#18ad-4fc2d36cebf1"><b>Docker for ML Engineers and Data Scientists</b></a></li>
+
+  <li><a href="https://medium.com/@mohsin.tariq10/whats-the-buzz-word-ai-part-1-d584e3265f09"><b>What’s the buzz word AI! Part-1</b></a></li>
+
+  <li><a href="https://medium.com/@mohsin.tariq10/whats-the-buzz-word-ai-part-2-e9b55c34d120"><b>What’s the Buzz word AI! Part-2</b></a></li>
+  
+</ul>
+
+
 
 <a href="https://github.com/mohsintariq10">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohsintariq10&include_all_commits=True&count_private=True&show_icons=true&theme=light&line_height=27" alt="Mohsin's github stats"/>

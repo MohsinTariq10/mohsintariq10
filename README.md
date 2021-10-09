@@ -1,4 +1,5 @@
-### Hi there, I am Mohsin 👋
+### Hi there, I am Mohsin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://discord.gg/XTW52Kt">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohsintariq10&label=Views&color=blue&style=plastic" alt="mohsintariq10" /> </p>
 

@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as Team Lead at [NCBC](https://ncbcpeshawar.com/).
 - 🌱 I’m currently learning more about MLOps.
-- 🤔 I’m looking for help with VelocityX documentation.
+<!-- - 🤔 I’m looking for help with VelocityX documentation. -->
 - 💬 Ask me about ML, AI or software development.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mohsintariq10/)
 - 😄 Pronouns: He/His

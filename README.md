@@ -36,6 +36,79 @@
 </ul>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.4%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 165 Contributions in the Year 2021
+ > 
+> 📦 1.6 MB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 23 Public Repositories 
+ > 
+> 🔑 59 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.85% 
+🌆 Daytime    166 commits    ███████████░░░░░░░░░░░░░░   45.73% 
+🌃 Evening    98 commits     ██████░░░░░░░░░░░░░░░░░░░   27.0% 
+🌙 Night      56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.43%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.67% 
+Tuesday      60 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.53% 
+Wednesday    46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.67% 
+Thursday     58 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.98% 
+Friday       38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.47% 
+Saturday     62 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.08% 
+Sunday       53 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.6%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Karachi
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     22 repos            ███████░░░░░░░░░░░░░░░░░░   28.95% 
+JavaScript               20 repos            ██████░░░░░░░░░░░░░░░░░░░   26.32% 
+Python                   13 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.11% 
+PHP                      5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.58% 
+HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.58%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/MohsinTariq10/MohsinTariq10/main/charts/bar_graph.png) 
+
+
+ Last Updated on 10/10/2021
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/mohsintariq10">

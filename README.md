@@ -10,7 +10,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 3 hours everyday councelling people.
 
-<img src="./nn.gif" width="40" height="40" />
+<img src="./nn.gif" width="200" height="200" />
 
 **Languages and Tools:**  
 

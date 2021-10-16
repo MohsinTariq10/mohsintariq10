@@ -114,7 +114,7 @@ HTML                     5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MohsinTariq10/MohsinTariq10/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/10/2021
+ Last Updated on 16/10/2021
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/mohsintariq10">

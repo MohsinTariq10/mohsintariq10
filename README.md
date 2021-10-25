@@ -36,7 +36,7 @@
 </ul>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-75-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.0%20million%20lines%20of%20code-blue)
 
@@ -79,15 +79,15 @@ Sunday       54 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 2 mins        ███████████████████████░░   93.29% 
-Text                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.71%
+Python                   3 hrs 31 mins       ███████████████████████░░   92.38% 
+Text                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.62%
 
 🔥 Editors: 
-VS Code                  4 hrs 20 mins       █████████████████████████   100.0%
+VS Code                  3 hrs 49 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-tinalambda               2 hrs 26 mins       ██████████████░░░░░░░░░░░   56.29% 
-tina_transcribe_script   1 hr 53 mins        ███████████░░░░░░░░░░░░░░   43.71%
+tinalambda               2 hrs 26 mins       ████████████████░░░░░░░░░   63.88% 
+tina_transcribe_script   1 hr 22 mins        █████████░░░░░░░░░░░░░░░░   36.12%
 
 ```
 
@@ -108,7 +108,7 @@ HTML                     5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MohsinTariq10/MohsinTariq10/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/10/2021
+ Last Updated on 25/10/2021
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/mohsintariq10">

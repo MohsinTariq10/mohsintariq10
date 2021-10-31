@@ -36,7 +36,7 @@
 </ul>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.0%20million%20lines%20of%20code-blue)
 
@@ -79,16 +79,16 @@ Sunday       54 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 40 mins       █████████████████████████   100.0%
+Python                   3 hrs 59 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  3 hrs 40 mins       █████████████████████████   100.0%
+VS Code                  3 hrs 59 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-tina_transcribe_script   2 hrs 40 mins       ██████████████████░░░░░░░   72.71% 
-tinalambda               40 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.36% 
-PAF-FLL-UK-CSV           18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.6% 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33%
+tina_transcribe_script   2 hrs 59 mins       ██████████████████░░░░░░░   74.84% 
+tinalambda               40 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.93% 
+PAF-FLL-UK-CSV           18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.93% 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31%
 
 ```
 
@@ -109,7 +109,7 @@ HTML                     5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MohsinTariq10/MohsinTariq10/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/10/2021
+ Last Updated on 31/10/2021
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/mohsintariq10">

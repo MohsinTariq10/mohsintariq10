@@ -42,13 +42,13 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 216 Contributions in the Year 2021
+> 🏆 215 Contributions in the Year 2021
  > 
 > 📦 1.6 MB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 26 Public Repositories 
+> 📜 25 Public Repositories 
  > 
 > 🔑 62 Private Repositories  
  > 
@@ -111,7 +111,7 @@ HTML                     5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MohsinTariq10/MohsinTariq10/main/charts/bar_graph.png) 
 
 
- Last Updated on 10/11/2021
+ Last Updated on 11/11/2021
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/mohsintariq10">

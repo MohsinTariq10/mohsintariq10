@@ -85,8 +85,7 @@ Python                   1 hr 18 mins        ███████████�
 VS Code                  1 hr 18 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-tina_transcribe_script   1 hr 18 mins        █████████████████████████   100.0% 
-PAF-FLL-UK-CSV           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+tina_transcribe_script   1 hr 18 mins        █████████████████████████   100.0%
 
 ```
 
@@ -107,7 +106,7 @@ HTML                     5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MohsinTariq10/MohsinTariq10/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/11/2021
+ Last Updated on 21/11/2021
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/mohsintariq10">

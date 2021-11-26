@@ -36,7 +36,7 @@
 </ul>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.0%20million%20lines%20of%20code-blue)
 
@@ -79,13 +79,13 @@ Sunday       54 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-tina_transcribe_script   0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -106,7 +106,7 @@ HTML                     5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MohsinTariq10/MohsinTariq10/main/charts/bar_graph.png) 
 
 
- Last Updated on 25/11/2021
+ Last Updated on 26/11/2021
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/mohsintariq10">

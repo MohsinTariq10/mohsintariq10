@@ -79,13 +79,13 @@ Sunday       53 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-tinaapi                  3 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -106,7 +106,7 @@ PHP                      5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MohsinTariq10/MohsinTariq10/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/02/2022 00:33:19 UTC
+ Last Updated on 28/02/2022 00:35:22 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/mohsintariq10">

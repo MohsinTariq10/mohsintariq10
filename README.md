@@ -44,13 +44,13 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 85 Contributions in the Year 2022
+> 🏆 86 Contributions in the Year 2022
  > 
 > 📦 1.8 MB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 27 Public Repositories 
+> 📜 28 Public Repositories 
  > 
 > 🔑 66 Private Repositories  
  > 
@@ -81,13 +81,13 @@ Sunday       59 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-YAML                     41 mins             █████████████████████████   100.0%
+YAML                     19 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  41 mins             █████████████████████████   100.0%
+VS Code                  19 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-lex js                   41 mins             █████████████████████████   100.0%
+lex js                   19 mins             █████████████████████████   100.0%
 
 ```
 
@@ -108,7 +108,7 @@ PHP                      5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MohsinTariq10/MohsinTariq10/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/05/2022 00:47:40 UTC
+ Last Updated on 20/05/2022 00:40:21 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/mohsintariq10">

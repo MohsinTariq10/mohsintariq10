@@ -81,13 +81,13 @@ Sunday       59 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-YAML                     19 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  19 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-lex js                   19 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -108,7 +108,7 @@ PHP                      5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MohsinTariq10/MohsinTariq10/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/05/2022 00:40:21 UTC
+ Last Updated on 21/05/2022 00:38:28 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/mohsintariq10">

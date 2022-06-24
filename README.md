@@ -38,7 +38,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
 
@@ -81,14 +81,14 @@ Sunday       22 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 13 mins        ████████████████████████░   98.15% 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.85%
+Python                   46 mins             ████████████████████████░   97.08% 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.92%
 
 🔥 Editors: 
-VS Code                  1 hr 14 mins        █████████████████████████   100.0%
+VS Code                  47 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Leetcode                 1 hr 14 mins        █████████████████████████   100.0%
+Leetcode                 47 mins             █████████████████████████   100.0%
 
 ```
 
@@ -109,7 +109,7 @@ PHP                      5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MohsinTariq10/MohsinTariq10/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/06/2022 00:44:32 UTC
+ Last Updated on 24/06/2022 00:43:01 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/mohsintariq10">

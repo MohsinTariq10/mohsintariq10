@@ -81,13 +81,13 @@ Sunday       22 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   25 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  25 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Leetcode                 25 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -108,7 +108,7 @@ PHP                      5 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/MohsinTariq10/MohsinTariq10/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/08/2022 00:49:27 UTC
+ Last Updated on 18/08/2022 00:45:55 UTC
 <!--END_SECTION:waka-->
 
 <a href="https://github.com/mohsintariq10">
